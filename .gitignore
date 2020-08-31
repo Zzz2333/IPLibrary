@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/IPLibrary/v16
+/IPLibrary/bin/Debug
+/IPLibrary/obj/Debug
